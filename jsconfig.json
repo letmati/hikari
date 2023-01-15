@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "/hikari/",
     "paths": {
       "@/*": ["./src/*"]
     }
