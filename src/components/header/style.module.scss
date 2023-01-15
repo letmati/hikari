@@ -1,0 +1,17 @@
+.header {
+    background-color: black;
+    padding: 0.75rem;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+    h1 {
+        margin: 0;
+        color: white;
+        font-family: 'Bangers';
+        font-size: 4rem;
+        letter-spacing: 0.25rem;
+    }
+}
